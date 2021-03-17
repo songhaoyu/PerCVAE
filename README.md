@@ -1,5 +1,7 @@
 ## perCVAE Public
 
+Original Links in Paper: https://github.com/vsharecodes/percvae
+
 ### 1.Environments
 ```
 TensorFlow 1.4.0
